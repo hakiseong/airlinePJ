@@ -28,6 +28,8 @@
             고객센터
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="customerHome.do">환불/취소 신청</a>
+            <a class="dropdown-item" href="customerHome.do">공지사항</a>
             <a class="dropdown-item" href="customerHome.do">FAQ</a>
             <a class="dropdown-item" href="customerHome.do">Q&A</a>
           </div>
