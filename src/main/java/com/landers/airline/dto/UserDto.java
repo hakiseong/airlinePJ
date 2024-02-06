@@ -3,10 +3,10 @@ package com.landers.airline.dto;
 public class UserDto {
 	
 	private String user_id;
-	private String username;
-	private String password;
-	private String phonenumber;
-	private String address;
+	private String user_pw;
+	private String user_name;
+	private String user_phone;
+	private String user_address;
 	
 	public UserDto() {
 		
